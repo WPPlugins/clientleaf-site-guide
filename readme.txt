@@ -1,6 +1,6 @@
 === Clientleaf Site Guide ===
 Contributors: vexmedialtd
-Tags: client dashboard, handover, admin, documentation, agency
+Tags: client dashboard, handover, client onboarding, dashboard notes, documentation
 Requires at least: 7.1
 Tested up to: 7.1
 Requires PHP: 8.1
@@ -8,7 +8,7 @@ Stable tag: 0.1.6
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-A simple client dashboard and website handover guide for WordPress.
+Give clients a clear WordPress dashboard with editing shortcuts, website instructions and support contacts for a smoother website handover.
 
 == Description ==
 
